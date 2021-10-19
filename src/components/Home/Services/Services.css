@@ -1,0 +1,6 @@
+.departmentStyle {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  justify-content: center;
+  margin-left: 100px;
+}

@@ -13,10 +13,12 @@ const Header = () => {
 
 ">Home</Nav.Link>
         <Nav.Link href="#doctors" className="text-light
-
 ">Doctors</Nav.Link>
         <Nav.Link href="#about" className="text-light
-
+">Covid Care</Nav.Link>
+        <Nav.Link href="#about" className="text-light
+">Traning</Nav.Link>
+        <Nav.Link href="#about" className="text-light
 ">About</Nav.Link>
         <Navbar.Text>
         Signed in as: <a href="#login">Mark Otto</a>
