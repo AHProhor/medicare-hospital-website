@@ -1,0 +1,50 @@
+[
+  {
+    "id": 100,
+    "name": "Medicine",
+    "serviceHour": "24 H",
+    "totalDoctor": 12,
+    "img": "https://i.ibb.co/ZhXjJQ2/diagonistics.jpg",
+    "details": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fuga corrupti itaque suscipit accusantium natus et maxime. Ratione architecto ad praesentium, possimus eligendi voluptates similique iste porro, optio sed iusto totam!"
+  },
+  {
+    "id": 101,
+    "name": "Cardiology",
+    "serviceHour": "24 H",
+    "totalDoctor": 12,
+    "img": "https://i.ibb.co/0MLb1BX/gynocology.png",
+    "details": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fuga corrupti itaque suscipit accusantium natus et maxime. Ratione architecto ad praesentium, possimus eligendi voluptates similique iste porro, optio sed iusto totam!"
+  },
+  {
+    "id": 102,
+    "name": "Orthopedics",
+    "serviceHour": "24 H",
+    "totalDoctor": 12,
+    "img": "https://i.ibb.co/t2rxkGZ/medicine.jpg",
+    "details": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fuga corrupti itaque suscipit accusantium natus et maxime. Ratione architecto ad praesentium, possimus eligendi voluptates similique iste porro, optio sed iusto totam!"
+  },
+  {
+    "id": 103,
+    "name": "Sergery",
+    "serviceHour": "24 H",
+    "totalDoctor": 12,
+    "img": "https://i.ibb.co/crkvWx8/orthoprdics.jpg",
+    "details": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fuga corrupti itaque suscipit accusantium natus et maxime. Ratione architecto ad praesentium, possimus eligendi voluptates similique iste porro, optio sed iusto totam!"
+  },
+  {
+    "id": 104,
+    "name": "Gynaecology",
+    "serviceHour": "24 H",
+    "totalDoctor": 12,
+    "img": "https://i.ibb.co/4PV06MZ/surgery.jpg",
+    "details": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fuga corrupti itaque suscipit accusantium natus et maxime. Ratione architecto ad praesentium, possimus eligendi voluptates similique iste porro, optio sed iusto totam!"
+  },
+  {
+    "id": 105,
+    "name": "Diagnostic ",
+    "serviceHour": "24 H",
+    "totalDoctor": 120,
+    "img": "https://i.ibb.co/ssj72jC/cardiology.jpg",
+    "details": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fuga corrupti itaque suscipit accusantium natus et maxime. Ratione architecto ad praesentium, possimus eligendi voluptates similique iste porro, optio sed iusto totam!"
+  }
+]
