@@ -24,7 +24,7 @@ const Header = () => {
         <Nav.Link as={Link} to="/about" className="text-light
 ">About</Nav.Link>
 <Navbar.Text>
-                <span style={{color:"white"}}>Signed in as:{user.displayName}</span>
+                <span style={{color:"white"}}>Hi:{user.displayName}</span>
         </Navbar.Text>
         {
                 user.email?

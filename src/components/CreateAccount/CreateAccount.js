@@ -15,7 +15,7 @@ const CreateAccount = () => {
                     <br />
                     <input type="submit" value="Submit" />
                 </form>
-                <p>Already have an account? <Link to="/login"></Link></p>
+                <p>Already have an account? <Link to="/login">Login</Link></p>
                 <h4>or</h4>
                 <button className="btn-regular">Google Sign in</button>
             </div>

@@ -14,7 +14,6 @@ const Doctors = () => {
     },[])
 
     const data = doctors.filter(item => item.deptId == id);
-    console.log('doctor data>>',data)
     return (
         <div>
             <h1 className="mt-5 mb-5 text-primary fw-bolder">{data[0]?.department} Docotrs</h1>

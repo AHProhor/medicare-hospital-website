@@ -1,9 +1,11 @@
 import React from 'react';
+import notFound from '../../images/others/404_page_cover.jpg';
+import './Notfound.css';
 
 const Notfound = () => {
     return (
-        <div>
-            <h3>There is nothing</h3>
+        <div className="notFoundStyle">
+            <img src={notFound} alt="notfoundImage" />
         </div>
     );
 };
